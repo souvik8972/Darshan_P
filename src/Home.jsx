@@ -94,7 +94,7 @@ const HomePage = () => {
         <div
           ref={section2Ref}
           id="section2"
-          className="absolute top-0 left-0 w-full h-full bg-green-600 flex flex-col items-center justify-center p-4 space-y-4 z-20"
+          className="absolute top-0 left-0 w-full h-full bg-[#1F6A33] flex flex-col items-center justify-center p-4 space-y-4 z-20"
         >
           {[
             {
